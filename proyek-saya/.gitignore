@@ -1,0 +1,14 @@
+# folder python cache
+__pycache__/
+
+# file log
+*.log
+
+# file env (jangan upload ke GitHub)
+.env
+
+# folder vscode
+.vscode/
+
+# file sementara
+*.tmp
